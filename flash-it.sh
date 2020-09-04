@@ -66,6 +66,8 @@ function reset_device {
 
 # Install necessary packages
 apt update
+# Add repository universe
+add-apt-repository universe
 apt install git-core build-essential python3 pciutils p7zip-full sysfsutils unzip -y
 
 # Download and extract firmware/BIOS (maybe)
