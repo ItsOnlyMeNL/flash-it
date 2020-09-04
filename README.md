@@ -85,7 +85,7 @@ PRs are also welcome!
 
 2. Copy `flash-it.sh` to a directory you're okay with making a mess in:
 ```
-wget https://raw.githubusercontent.com/confusingboat/flash-it/master/flash-it.sh
+wget https://raw.githubusercontent.com/ItsOnlyMeNL/flash-it/master/flash-it.sh
 ```
 3. Make the script executable:
 ```
